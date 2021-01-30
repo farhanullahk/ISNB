@@ -1,3 +1,40 @@
-html{
-	background-color: blue: 
+body {
+	background-color: #FFF: 
+}
+
+header{
+	background-color: blue;
+	color:white;
+	height: 120px;
+	font-size: 50px;
+	margin-top:0px;
+	border-top: 0px;
+
+}
+
+
+header .home{
+	color:white;
+	margin-left: 100px;
+	margin-right: 15px;
+}
+
+header .aboutus{
+	color: white;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+header .services{
+	color: white;
+	margin-left: 15px;
+	margin-right: 15px;
+
+}
+
+header .contactus{
+	color: white;
+	margin-left: 15px;
+	float: right;
+
 }
